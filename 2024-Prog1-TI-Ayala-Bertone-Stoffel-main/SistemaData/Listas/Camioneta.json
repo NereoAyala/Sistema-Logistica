@@ -1,0 +1,29 @@
+[
+  {
+    "IdCamioneta": 1,
+    "Patente": "AA003OD",
+    "TamañoCarga": 3300,
+    "DistanciaMax": 350,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-15T00:00:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCamioneta": 2,
+    "Patente": "AE718OJ",
+    "TamañoCarga": 5800,
+    "DistanciaMax": 550,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-15T00:00:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCamioneta": 3,
+    "Patente": "AB578OE",
+    "TamañoCarga": 6700,
+    "DistanciaMax": 750,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-15T00:00:00",
+    "FechaActualizacion": null
+  }
+]

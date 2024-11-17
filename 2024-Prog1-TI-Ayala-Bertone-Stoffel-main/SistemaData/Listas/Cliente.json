@@ -1,0 +1,178 @@
+[
+  {
+    "IdCliente": 1,
+    "DniCliente": 34567123,
+    "Nombre": "Pablo",
+    "Apellido": "Estrada",
+    "Email": "pablo@gmail.com",
+    "Telefono": "3492655505",
+    "localizacionCliente": {
+      "LatitudCliente": 31.0,
+      "LongitudCliente": -12.0
+    },
+    "FechaNacimiento": "2002-07-25T12:20:27.365Z",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-18T09:21:11.8155139-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCliente": 2,
+    "DniCliente": 23457123,
+    "Nombre": "Roberto",
+    "Apellido": "Carlos",
+    "Email": "robertito@gmail.com",
+    "Telefono": "3492512868",
+    "localizacionCliente": {
+      "LatitudCliente": 89.0,
+      "LongitudCliente": 13.0
+    },
+    "FechaNacimiento": "1978-10-31T00:00:00",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-22T00:48:42.6328855-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCliente": 3,
+    "DniCliente": 44231567,
+    "Nombre": "zoe",
+    "Apellido": "Bertone",
+    "Email": "zieB@example.com",
+    "Telefono": "342345678",
+    "localizacionCliente": {
+      "LatitudCliente": -32.0,
+      "LongitudCliente": -61.0
+    },
+    "FechaNacimiento": "2002-10-27T00:00:00",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-27T19:56:31.650615-03:00",
+    "FechaActualizacion": "2024-10-27T20:00:57.4219692-03:00"
+  },
+  {
+    "IdCliente": 4,
+    "DniCliente": 44056993,
+    "Nombre": "Marisa",
+    "Apellido": "Smith",
+    "Email": "marisa@gmail.com",
+    "Telefono": "3492563289",
+    "localizacionCliente": {
+      "LatitudCliente": 89.0,
+      "LongitudCliente": -25.0
+    },
+    "FechaNacimiento": "1982-07-25T00:00:00",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-28T10:51:00.1914665-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCliente": 5,
+    "DniCliente": 29514775,
+    "Nombre": "gisela",
+    "Apellido": "morelli",
+    "Email": "gisela@gmail.com",
+    "Telefono": "3492644990",
+    "localizacionCliente": {
+      "LatitudCliente": -31.0,
+      "LongitudCliente": -62.0
+    },
+    "FechaNacimiento": "1982-09-20T00:00:00",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-29T10:00:38.6592674-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCliente": 6,
+    "DniCliente": 23,
+    "Nombre": "gisela",
+    "Apellido": "morelli",
+    "Email": "gisela@gmail.c",
+    "Telefono": "3492644990",
+    "localizacionCliente": {
+      "LatitudCliente": -31.0,
+      "LongitudCliente": -62.0
+    },
+    "FechaNacimiento": "1982-09-20T00:00:00",
+    "FechaEliminacion": "2024-10-31T12:10:46.2345723-03:00",
+    "FechaCreacion": "2024-10-29T10:01:09.5859309-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCliente": 7,
+    "DniCliente": 44023895,
+    "Nombre": "zoe",
+    "Apellido": "bertone",
+    "Email": "zoe@gmail.com",
+    "Telefono": "2345",
+    "localizacionCliente": {
+      "LatitudCliente": 12.0,
+      "LongitudCliente": 23.0
+    },
+    "FechaNacimiento": "2002-07-30T00:00:00",
+    "FechaEliminacion": "2024-10-31T12:11:10.7723492-03:00",
+    "FechaCreacion": "2024-10-29T13:45:25.6320999-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCliente": 8,
+    "DniCliente": 27731554,
+    "Nombre": "Federico",
+    "Apellido": "Bertone",
+    "Email": "federico@gmail.com",
+    "Telefono": "3492982456",
+    "localizacionCliente": {
+      "LatitudCliente": 61.0,
+      "LongitudCliente": -31.0
+    },
+    "FechaNacimiento": "1970-12-16T00:00:00",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-29T14:26:55.4452229-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCliente": 9,
+    "DniCliente": 28996558,
+    "Nombre": "José",
+    "Apellido": "Fernandez",
+    "Email": "jose@gmail.com",
+    "Telefono": "3492982456",
+    "localizacionCliente": {
+      "LatitudCliente": 81.0,
+      "LongitudCliente": -11.0
+    },
+    "FechaNacimiento": "1979-10-19T00:00:00",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-29T15:54:50.31629-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCliente": 10,
+    "DniCliente": 37996775,
+    "Nombre": "Emilia",
+    "Apellido": "Paredes",
+    "Email": "emilia@gmail.com",
+    "Telefono": "3492576870",
+    "localizacionCliente": {
+      "LatitudCliente": 73.0,
+      "LongitudCliente": -11.0
+    },
+    "FechaNacimiento": "2000-10-19T00:00:00",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-29T15:56:08.1580302-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "IdCliente": 11,
+    "DniCliente": 23567123,
+    "Nombre": "Sandra",
+    "Apellido": "Perez",
+    "Email": "sandra@gmail.com",
+    "Telefono": "3492904233",
+    "localizacionCliente": {
+      "LatitudCliente": 73.0,
+      "LongitudCliente": -11.0
+    },
+    "FechaNacimiento": "2001-04-19T00:00:00",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-31T00:44:25.3378122-03:00",
+    "FechaActualizacion": null
+  }
+]

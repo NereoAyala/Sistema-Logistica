@@ -1,0 +1,3 @@
+# 2024-Prog1-TI-Ayala-Bertone-Stoffel
+
+SOLUCION EN CARPETA SISTEMAENTITIES!!

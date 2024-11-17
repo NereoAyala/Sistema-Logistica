@@ -1,0 +1,81 @@
+[
+  {
+    "ListadoCodigosCompras": [
+      3
+    ],
+    "IdViaje": 1,
+    "IdCamioneta": 1,
+    "FechaEntregaDesde": "2024-10-31T00:00:00",
+    "FechaEntregaHasta": "2024-11-07T00:00:00",
+    "PorcentajeCarga": 30,
+    "FechaEliminacion": null,
+    "FechaCreacion": "0001-01-01T00:00:00",
+    "FechaActualizacion": null
+  },
+  {
+    "ListadoCodigosCompras": [
+      5,
+      6,
+      7,
+      16,
+      17,
+      18
+    ],
+    "IdViaje": 2,
+    "IdCamioneta": 1,
+    "FechaEntregaDesde": "2024-11-08T00:00:00",
+    "FechaEntregaHasta": "2024-11-11T00:00:00",
+    "PorcentajeCarga": 90,
+    "FechaEliminacion": null,
+    "FechaCreacion": "0001-01-01T00:00:00",
+    "FechaActualizacion": null
+  },
+  {
+    "ListadoCodigosCompras": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "IdViaje": 3,
+    "IdCamioneta": 2,
+    "FechaEntregaDesde": "2024-11-08T00:00:00",
+    "FechaEntregaHasta": "2024-11-11T00:00:00",
+    "PorcentajeCarga": 86,
+    "FechaEliminacion": null,
+    "FechaCreacion": "0001-01-01T00:00:00",
+    "FechaActualizacion": null
+  },
+  {
+    "ListadoCodigosCompras": [
+      13,
+      14,
+      15
+    ],
+    "IdViaje": 4,
+    "IdCamioneta": 3,
+    "FechaEntregaDesde": "2024-11-08T00:00:00",
+    "FechaEntregaHasta": "2024-11-11T00:00:00",
+    "PorcentajeCarga": 44,
+    "FechaEliminacion": null,
+    "FechaCreacion": "0001-01-01T00:00:00",
+    "FechaActualizacion": null
+  },
+  {
+    "ListadoCodigosCompras": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "IdViaje": 5,
+    "IdCamioneta": 1,
+    "FechaEntregaDesde": "2024-11-20T00:00:00",
+    "FechaEntregaHasta": "2024-11-25T00:00:00",
+    "PorcentajeCarga": 60,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2024-10-31T10:51:34.2697345-03:00",
+    "FechaActualizacion": null
+  }
+]

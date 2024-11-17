@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Stylesheet.css">
+    <title>Trabajo Integrador</title>
+</head>
+<body>
+    <div class="contenedor">
+        <header>
+            <div class="logo">
+                <h1> Gestión de compras y envíos </h1>
+            </div>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="Cliente.html">Cliente</a> </li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    <div class="main-form">
+        <form action="js/agregarcompra.js" method="POST" id="compraForm">
+            <h3>NUEVA COMPRA</h3>
+            <input type="number" id="id" name="id" required placeholder="ID producto">
+            <input type="number" id="cantidad" name="cantidad" required placeholder="Cantidad">  
+            <input type="number" id="dni" name="dni" required placeholder="DNI Cliente">   
+            <label for="fecha_entrega">Fecha de Entrega Solicitada:</label>
+            <input type="date" id="fecha_entrega" name="fecha_entrega" required placeholder="Ingrese la fecha de entrega solicitada">
+            <input type="submit" value="Registrar Compra" class="btn-submit">
+            <button class="boton-back"><a href="index.html"><</button></a>
+        </form>
+    </div>
+    <script src="js/agregarcompra.js"></script>
+<footer>
+    <p> &copy; UCSE 2024 </p>
+</footer>
+</body>
+</html>
